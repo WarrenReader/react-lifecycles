@@ -1,0 +1,1 @@
+React Lifecycle Project. Tool for learning react's lifecycle methods.
